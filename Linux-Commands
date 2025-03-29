@@ -1,0 +1,87 @@
+tilda symbol -> alt+ü
+
+pwd
+clear / ctrl+l
+
+ls 
+ls -l
+ls -a 
+ls -i
+ls -s
+ls -r
+ls -R
+ls -t
+
+.hidden
+
+cd .
+cd ..
+
+touch
+
+mkdir
+rmdir
+
+rm
+rm -R
+rm -i
+rm -f
+
+cp  file1 file2 
+cp -R
+cp -i
+cp -Rv
+
+mv oldfilename newfilename (rename the file)
+mv filename dir1 (move the file )
+
+file yourfilename (datatype of your  file)
+
+mkdir \$dollars (to make your file name with special characters)
+
+
+ctrl+a -> go to beginning of line
+ctrl+e -> go to end of line 
+ctrl+k -> cut the the line after cursor
+ctrl+u -> cut the line before cursor
+ctrl+y -> take it back the rest of the line
+
+alt+f -> jump word from left to right through the line 
+alt+b -> jump word from right to left through the line
+alt+u -> change letter from lowercase to uppercase
+alt+l -> changer letter from uppercase to lowercase
+
+nano filename (text editor)
+history
+
+less filename (view the file content in terminal) -> Press "Q" to exit
+						  -> Press "H" to see help screen.
+
+cat filename (view file content in terminal)
+cat file1 file2 (concatenate 2 files in terminal view)
+
+tac filename(view file content(reverse order) in terminal)
+
+head filename (just see first 10 lines of the file)
+head -n number filename (just see first "number" lines of the file)
+
+tail filename(just see first 10 lines of the file)
+tail -n number filename (just see last "number" lines of the file)
+
+wc filename (show you the info about your filename) -> numberoflines -  numberofwords - numberofbytes - filename
+wc -l filename (only show number of lines)
+wc -w filename (only show number of words)
+wc -c filename (only show number of bytes)
+wc -L filename (only show number of characters of longest line)
+
+
+type commandname (type the command name)   e.g. type cp
+file pathtofile (type of the command name) e.g. file /bin/cp
+
+which commandname (show you the path of commandname) e.g. which cp 
+man commandname (help page for commandname)
+whatis commandname (it tells you what the commandname does) 
+
+
+
+
