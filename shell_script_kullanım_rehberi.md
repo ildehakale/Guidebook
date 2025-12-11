@@ -3,9 +3,8 @@
 ## İçindekiler
 1. [Temel Kavramlar](#temel-kavramlar)
 2. [Shell Script Oluşturma](#shell-script-oluşturma)
-3. [Kurulum Script'i Oluşturma](#kurulum-scripti-oluşturma)
+3. [Kurulum Scriptleri Oluşturma](#kurulum-scripti-oluşturma)
 4. [Pratik Örnekler](#pratik-örnekler)
-5. [İleri Seviye Konular](#ileri-seviye-konular)
 
 ---
 
@@ -1153,4 +1152,5 @@ Bu rehber, shell script'leri kullanarak Computer Vision projeleriniz için:
 
 
 oluşturmanıza yardımcı olacaktır. Script'lerinizi her zaman temiz, okunabilir ve hata yönetimine dikkat ederek yazın.
+
 
