@@ -3,10 +3,9 @@
 ## İçindekiler
 1. [Temel Kavramlar](#temel-kavramlar)
 2. [Shell Script Oluşturma](#shell-script-oluşturma)
-3. [Birden Fazla Dosya ile Çalışma](#birden-fazla-dosya-ile-çalışma)
-4. [Kurulum Script'i Oluşturma](#kurulum-scripti-oluşturma)
-5. [Pratik Örnekler](#pratik-örnekler)
-6. [İleri Seviye Konular](#ileri-seviye-konular)
+3. [Kurulum Script'i Oluşturma](#kurulum-scripti-oluşturma)
+4. [Pratik Örnekler](#pratik-örnekler)
+5. [İleri Seviye Konular](#ileri-seviye-konular)
 
 ---
 
@@ -1154,3 +1153,4 @@ Bu rehber, shell script'leri kullanarak Computer Vision projeleriniz için:
 
 
 oluşturmanıza yardımcı olacaktır. Script'lerinizi her zaman temiz, okunabilir ve hata yönetimine dikkat ederek yazın.
+
