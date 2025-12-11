@@ -1,0 +1,22 @@
+# data.yaml
+
+# Dataset yolu
+path: /path/to/dataset  # dataset root klasörü
+train: images/train     # train images klasörü (path'e göre relative)
+val: images/val         # validation images klasörü
+
+# Sınıflar
+nc: 3  # sınıf sayısı
+names: ['class1', 'class2', 'class3']  # sınıf isimleri
+
+# Opsiyonel
+# test: images/test  # test set (opsiyonel)
+
+
+Label formatı** (YOLO format):
+
+# Her image için bir .txt dosyası
+# Format:
+# class_id, x_center, y_center, width, height (normalized between 0-1)
+# 0 0.5 0.5 0.3 0.4
+# 1 0.3 0.6 0.2 0.3
