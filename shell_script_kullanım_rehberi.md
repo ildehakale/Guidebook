@@ -1152,4 +1152,5 @@ Bu rehber, shell script'leri kullanarak Computer Vision projeleriniz için:
 - Model eğitim ve test script'leri
 - Benchmark ve performans ölçüm araçları
 
+
 oluşturmanıza yardımcı olacaktır. Script'lerinizi her zaman temiz, okunabilir ve hata yönetimine dikkat ederek yazın.
